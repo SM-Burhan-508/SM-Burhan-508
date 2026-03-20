@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Burhan 👋
+### Computer Science Student · 6th Semester
 
-<!--
-**SM-Burhan-508/SM-Burhan-508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CS student passionate about building things that work under the hood — from multi-threaded systems to full-stack web applications. I enjoy taking on challenging problems and turning them into clean, working solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I work with
+`C / C++` `Python` `TypeScript` `React` `Supabase` `pthreads / OS Concepts` `Networking (IP/TCP)`
+
+---
+
+## 🚀 Highlights
+
+- **Multi-Teller Bank Simulation** — C-based multi-threaded simulation using pthreads, mutexes & semaphores to tackle Producer-Consumer and Dining Philosophers problems
+- **Gym Portal v3** — Full-stack gym management platform with React, TypeScript, Supabase, role-based access control & real-time DB integration
+- **IP Packet Tracer** — Computer networks project simulating IP-level packet tracing in Python
+
+---
+
+## 📬 Let's connect!
+Currently looking for **internship opportunities** where I can contribute, grow, and build real-world impact. Always open to collaborating on interesting projects!
