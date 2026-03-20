@@ -16,7 +16,3 @@ I'm a CS student passionate about building things that work under the hood — f
 - **Gym Portal v3** — Full-stack gym management platform with React, TypeScript, Supabase, role-based access control & real-time DB integration
 - **IP Packet Tracer** — Computer networks project simulating IP-level packet tracing in Python
 
----
-
-## 📬 Let's connect!
-Currently looking for **internship opportunities** where I can contribute, grow, and build real-world impact. Always open to collaborating on interesting projects!
