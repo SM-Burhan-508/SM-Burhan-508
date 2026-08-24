@@ -1,5 +1,5 @@
 # Hi, I'm Burhan 👋
-### Computer Science Student · 6th Semester
+### Computer Science Student · 7th Semester
 
 I'm a CS student passionate about building things that work under the hood — from multi-threaded systems to full-stack web applications. I enjoy taking on challenging problems and turning them into clean, working solutions.
 
